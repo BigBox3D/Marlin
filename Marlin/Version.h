@@ -52,7 +52,7 @@
 /**
  * Defines a generic printer name to be output to the LCD after booting Marlin.
  */
-#define MACHINE_NAME "BigBox Hybrid"
+#define MACHINE_NAME "BigBox Pro"
 
 /**
  * The SOURCE_CODE_URL is the location where users will find the Marlin Source
